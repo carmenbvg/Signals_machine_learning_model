@@ -1,0 +1,5 @@
+0 Stop
+1 Ceda
+2 velocidad_50
+3 Prohibido_izq
+4 Prohibido_drch
